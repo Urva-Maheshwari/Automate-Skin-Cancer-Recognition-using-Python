@@ -71,8 +71,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](templates\demo image.jpeg)
+demo image.jpeg
 
 <p>
 <h2><b>Industry Name: </b></h2>
