@@ -136,7 +136,9 @@ the acknowledgements section. Here are a few examples.
 ## Usage
 
 <p>
-templets/demo_video.mp4
+
+https://user-images.githubusercontent.com/125569854/236196668-ce032f49-c8b8-4473-98d1-d88f8090fe48.mp4
+
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
