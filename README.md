@@ -11,20 +11,6 @@
 
 
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-<!-- [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 
 
@@ -123,8 +109,8 @@ medical care.
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for
 the acknowledgements section. Here are a few examples.
 
-* [![Python][Python]][Python-url]
-* [![Azure][Azure]][Azure-url]
+* Python
+* Azure
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -137,6 +123,8 @@ the acknowledgements section. Here are a few examples.
 
 <p>
 
+https://user-images.githubusercontent.com/125569854/236196668-ce032f49-c8b8-4473-98d1-d88f8090fe48.mp4
+
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -144,19 +132,15 @@ the acknowledgements section. Here are a few examples.
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Disclaimer
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites
-to kick things off!
+* This website uses machine learning technology to provide information and services related to healthcare. The information and services provided on this website are for educational and informational purposes only and are not intended to be a substitute for professional medical advice, diagnosis, or treatment. You should always consult with a qualified healthcare professional before making any health decisions.
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* The machine learning technology used on this website is still under development and may not be accurate or complete. The website may also contain information that is outdated or inaccurate. We cannot guarantee the accuracy or completeness of the information and services provided on this website.
+
+* We make no representations or warranties of any kind, express or implied, about the accuracy, completeness, or suitability for any particular purpose of the information and services provided on this website. We disclaim all warranties, express or implied, including, but not limited to, implied warranties of merchantability and fitness for a particular purpose.
+
+* In no event shall we be liable for any damages whatsoever, including, but not limited to, direct, indirect, incidental, consequential, or punitive damages, arising out of or in connection with the use of this website or the information and services provided on this website.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -166,13 +150,13 @@ to kick things off!
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]:
 https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[contributors-url]: https://github.com/Urva-Maheshwari/Automate-Skin-Cancer-Recognition-using-Python/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[forks-url]: https://github.com/Urva-Maheshwari/Automate-Skin-Cancer-Recognition-using-Python/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[issues-url]: https://github.com/Urva-Maheshwari/Automate-Skin-Cancer-Recognition-using-Python/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
