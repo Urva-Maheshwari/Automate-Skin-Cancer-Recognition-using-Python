@@ -132,19 +132,15 @@ https://user-images.githubusercontent.com/125569854/236196668-ce032f49-c8b8-4473
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Disclaimer
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites
-to kick things off!
+* This website uses machine learning technology to provide information and services related to healthcare. The information and services provided on this website are for educational and informational purposes only and are not intended to be a substitute for professional medical advice, diagnosis, or treatment. You should always consult with a qualified healthcare professional before making any health decisions.
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* The machine learning technology used on this website is still under development and may not be accurate or complete. The website may also contain information that is outdated or inaccurate. We cannot guarantee the accuracy or completeness of the information and services provided on this website.
+
+* We make no representations or warranties of any kind, express or implied, about the accuracy, completeness, or suitability for any particular purpose of the information and services provided on this website. We disclaim all warranties, express or implied, including, but not limited to, implied warranties of merchantability and fitness for a particular purpose.
+
+* In no event shall we be liable for any damages whatsoever, including, but not limited to, direct, indirect, incidental, consequential, or punitive damages, arising out of or in connection with the use of this website or the information and services provided on this website.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
