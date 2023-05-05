@@ -12,7 +12,9 @@ def predict_image_class(img_pa):
     img = tf.image.convert_image_dtype(img, tf.float32)
     predictions = model.predict(img)
     score = predictions.squeeze()
-    if score >= 0.6:
-        return (f"This image is maybe {100 * score:.2f}% Safe.")
-    else:
-        return (f"This image is {100 * (1 - score):.2f}% infected.")
+    if score < 0.29:
+        print(f"This image is {100 * (1 - score):.2f}% benign.")
+    elif score > 0.30 and score < 0.7:  
+        print("Got nothing")
+    elif score>0.71:
+        print(f"This image is {100 * score:.2f}% malignant.")
