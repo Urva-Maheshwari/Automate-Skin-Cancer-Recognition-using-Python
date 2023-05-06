@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Automate-Skin-Cancer-Recognition-using-Python'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_876C28D28DCA4676A19FED20EE1FBA4B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A949D2463C0A42F6B5AC631AD1E1C51C }}
